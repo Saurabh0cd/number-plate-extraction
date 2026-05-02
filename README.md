@@ -26,7 +26,7 @@ This project implements an **Automatic Number Plate Recognition (ANPR)** pipelin
 |------|---------|
 | Python | Core language |
 | OpenCV | Image processing & plate detection |
-| Tesseract OCR / EasyOCR | Character recognition |
+| EasyOCR | Character recognition |
 | NumPy | Array & image manipulation |
 
 ---
